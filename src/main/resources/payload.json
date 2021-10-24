@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "name": "Thahir",
+  "address": {
+    "doorNumber": "1-234",
+    "street": "Gachibowli",
+    "city": "hyderabad",
+    "pincode": "123456789"
+  },
+  "contact": "8545698714"
+}
