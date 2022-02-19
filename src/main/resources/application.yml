@@ -1,2 +1,10 @@
 server:
   port: 8095
+
+
+spring:
+  kafka:
+    topic: student-topic
+    consumer:
+      bootstrap-servers: http://localhost:9092
+      group-id: student-group
