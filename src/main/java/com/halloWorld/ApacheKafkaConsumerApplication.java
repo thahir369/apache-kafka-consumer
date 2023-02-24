@@ -1,12 +1,12 @@
-package com.helloWorld;
+package com.halloWorld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KafkaConsumerHbkApplication {
+public class ApacheKafkaConsumerApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(KafkaConsumerHbkApplication.class, args);
+    SpringApplication.run(ApacheKafkaConsumerApplication.class, args);
   }
 }

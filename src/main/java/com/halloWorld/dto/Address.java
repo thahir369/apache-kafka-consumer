@@ -1,4 +1,4 @@
-package com.helloWorld.dto;
+package com.halloWorld.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;

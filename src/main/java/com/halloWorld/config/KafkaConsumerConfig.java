@@ -1,6 +1,6 @@
-package com.helloWorld.config;
+package com.halloWorld.config;
 
-import com.helloWorld.dto.Student;
+import com.halloWorld.dto.Student;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,6 +1,6 @@
-package com.helloWorld.listener;
+package com.halloWorld.listener;
 
-import com.helloWorld.dto.Student;
+import com.halloWorld.dto.Student;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.annotation.KafkaListener;
